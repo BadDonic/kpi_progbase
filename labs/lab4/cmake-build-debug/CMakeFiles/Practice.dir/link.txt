@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Werror -Wall -g -pedantic-errors -g   CMakeFiles/Practice.dir/main.c.o CMakeFiles/Practice.dir/cui.c.o  -o Practice -lm -lprogbase -lcheck 

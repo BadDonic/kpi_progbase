@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/graphics.h
+
+/home/daniel/Documents/Programming/C.C++/Projects/threads/main.cpp
+iostream
+-
+progbase-cpp/console.h
+-
+mutex
+-
+thread
+-
+graphics.h
+-
+cmath
+-
+
+/home/daniel/Documents/Programming/C.C++/Projects/threads/src/graphics.cpp
+math.h
+-
+progbase-cpp/console.h
+-
+graphics.h
+-
+

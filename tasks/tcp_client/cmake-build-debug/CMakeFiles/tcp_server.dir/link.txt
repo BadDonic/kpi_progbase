@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Werror -Wall -g   CMakeFiles/tcp_server.dir/server.c.o CMakeFiles/tcp_server.dir/handler.c.o CMakeFiles/tcp_server.dir/src/request.c.o CMakeFiles/tcp_server.dir/src/vector.c.o  -o tcp_server -rdynamic -lprogbase -ljansson 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/test.h
+convert.h
+-
+check.h
+-
+list.h
+-
+
+/home/daniel/Documents/Programming/C/Projects/lab5/main.c
+cui.h
+-
+convert.h
+-
+storage.h
+-
+test.h
+-
+
+/home/daniel/Documents/Programming/C/Projects/lab5/src/test.c
+test.h
+-
+

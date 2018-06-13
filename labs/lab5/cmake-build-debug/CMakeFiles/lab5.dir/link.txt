@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -g -Werror -Wall -pedantic-errors -g   CMakeFiles/lab5.dir/main.c.o CMakeFiles/lab5.dir/src/test.c.o  -o lab5 -lprogbase -lcheck -lliblab5 -ljansson -lxml2 

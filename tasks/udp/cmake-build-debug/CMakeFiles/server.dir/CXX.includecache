@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/Documents/Programming/C.C++/Projects/udp/server.cpp
+iostream
+-
+progbase-cpp/net.h
+-
+cstring
+-
+dirent.h
+-
+fstream
+-
+

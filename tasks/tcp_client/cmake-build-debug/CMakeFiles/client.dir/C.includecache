@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/vector.h
+
+/home/daniel/Documents/Programming/C.C++/Projects/tcp_client/client.c
+stdlib.h
+-
+stdio.h
+-
+jansson.h
+-
+progbase/net.h
+-
+vector.h
+-
+memory.h
+-
+
+/home/daniel/Documents/Programming/C.C++/Projects/tcp_client/src/vector.c
+vector.h
+-
+stdlib.h
+-
+stdio.h
+-
+

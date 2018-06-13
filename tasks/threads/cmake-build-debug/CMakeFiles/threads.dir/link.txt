@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/threads.dir/src/graphics.cpp.o CMakeFiles/threads.dir/main.cpp.o  -o threads -lm -lpthread -lprogbase-cpp -lprogbase 

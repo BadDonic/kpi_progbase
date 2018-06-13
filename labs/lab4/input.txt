@@ -1,0 +1,9 @@
+SunNet 1999 123 Danya Dzenik 18
+LanNet 1998 19032 Vlad Krem 19
+Ukr 2004 1.231 Dimon Blag 23
+Indys 1983 1000.99 Valentin Ivanovich 49
+ELNET 1978 35000.35 Victoria Leg 37
+PROVNeT 1994 15000.00 Nikolay Pop 24
+BabyNet 1981 13200.30 Nikita Ivanov 6
+Kabel 1953 19032 Sasha Kondratenko 81
+MTS 2004 200000.36 Zhenya Bytenko 62

@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -g -Werror -Wall -pedantic-errors -g   CMakeFiles/lab4.dir/main.c.o CMakeFiles/lab4.dir/src/convert.c.o CMakeFiles/lab4.dir/src/cui.c.o CMakeFiles/lab4.dir/src/list.c.o CMakeFiles/lab4.dir/src/storage.c.o CMakeFiles/lab4.dir/src/test.c.o  -o lab4 -lprogbase -lcheck 

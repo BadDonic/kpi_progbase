@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Providers>
+  <provider year="1999">
+    <provName>LanNet</provName>
+    <annualProfit>128312</annualProfit>
+    <owner age="18">
+      <name>Sasha</name>
+      <surname>Dyuk</surname>
+    </owner>
+  </provider>
+</Providers>
